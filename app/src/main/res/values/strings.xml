@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Story Andromeda</string>
+    <string name="description_story">Description</string>
+    <string name="email_story">Email</string>
+    <string name="email_hint_story">Insert Your Email</string>
+    <string name="password_story">User Password</string>
+    <string name="password_hint_story">Insert Your Password</string>
+    <string name="login_button_story"> Login Story</string>
+    <string name="user_image_story">User Image</string>
+    <string name="reload_story">Reload Story</string>
+    <string name="home_story">Home Andromeda</string>
+    <string name="apps_name">\"Express Yourself By Sharing Your Story On Story Andromeda\"</string>
+    <string name="title_signup">Complete your data below, yeahh!</string>
+    <string name="name_signup_story">Your Name</string>
+    <string name="button_signup_story">Signup Story</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="name_detail_story">Name</string>
+    <string name="date_detail">Date</string>
+    <string name="error">Error</string>
+    <string name="head_notif">SUCCESS !</string>
+    <string name="login_succes_notif">Login Succes, Welcome To Story Andromeda</string>
+    <string name="upload_succes_notif">Yeahh.. your story has been uploaded</string>
+    <string name="next_notif">Next</string>
+    <string name="register_succes_notif">Your registration is complete, one more step to share your story on Story Andromeda</string>
+    <string name="language_story">Language Story</string>
+    <string name="logout_story">Logout Story</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="camera_button">Camera</string>
+    <string name="description_hint">Description</string>
+    <string name="submit_button">Submit</string>
+    <string name="show_password_text">Show Password</string>
+    <string name="appwidget_text">Story Andromeda</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="desc_detail">These are the details of the stories that have been posted in this application</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Invalid password</string>
+
+
+
+
+    <string name="message_welcome_page_story">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just on Android Intermediate (Dicoding) Stories!</string>
+    <string name="story_title_welcome_page">Welcome to Story Android Intermediate (Dicoding)!</string>
+    <string name="story_title_signup_page">Complete your data below, yeahh!</string>
+    <string name="message_login_page_story">Enter your data first, yeahh!</string>
+    <string name="story_title_login_page">Are you ready to upgrade your skills?</string>
+    <string name="story_message_main_page">Happy Learning at Story Android Intermediate (Dicoding).</string>
+    <string name="story_greeting">Halo %1$s,</string>
+
+</resources>
