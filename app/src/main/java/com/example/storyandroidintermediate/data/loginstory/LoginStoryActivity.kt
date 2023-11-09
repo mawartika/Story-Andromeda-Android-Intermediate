@@ -66,7 +66,7 @@ class LoginStoryActivity : AppCompatActivity() {
         }
 
         binding.loginButton.setOnClickListener {
-            val email = binding.emailEditTextLogin.text.toString()
+            val email = binding.emailEditTextSignup.text.toString()
             val pass = binding.passwordEditTextLogin.text.toString()
 
             val title = getString(R.string.head_notif)
@@ -118,7 +118,7 @@ class LoginStoryActivity : AppCompatActivity() {
         }.start()
 
         val titlemail = ObjectAnimator.ofFloat(binding.emailTextViewLogin, View.ALPHA, 1f).setDuration(200)
-        val emailedit = ObjectAnimator.ofFloat(binding.emailEditTextLogin, View.ALPHA, 1f).setDuration(200)
+        val emailedit = ObjectAnimator.ofFloat(binding.emailEditTextSignup, View.ALPHA, 1f).setDuration(200)
         val titlepass = ObjectAnimator.ofFloat(binding.passwordTextViewLogin, View.ALPHA, 1f).setDuration(200)
         val passedit = ObjectAnimator.ofFloat(binding.passwordEditTextLogin, View.ALPHA, 1f).setDuration(200)
         val login = ObjectAnimator.ofFloat(binding.loginButton, View.ALPHA, 1f).setDuration(200)

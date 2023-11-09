@@ -3,6 +3,7 @@
     <string name="description_story">Description</string>
     <string name="email_story">Email</string>
     <string name="email_hint_story">Insert Your Email</string>
+    <string name="name_hint_story">Insert Your Name</string>
     <string name="password_story">User Password</string>
     <string name="password_hint_story">Insert Your Password</string>
     <string name="login_button_story"> Login Story</string>

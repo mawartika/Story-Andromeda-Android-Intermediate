@@ -43,7 +43,7 @@
         app:errorTextColor="@color/black">
 
         <com.example.storyandroidintermediate.data.edittext.MyEditTextStory
-            android:id="@+id/emailEditText_login"
+            android:id="@+id/emailEditText_signup"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:alpha="0"

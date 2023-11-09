@@ -6,6 +6,7 @@ import android.os.Build
 import android.os.Bundle
 import android.text.method.HideReturnsTransformationMethod
 import android.text.method.PasswordTransformationMethod
+import android.util.Log
 import android.view.View
 import android.view.WindowInsets
 import android.view.WindowManager
@@ -61,10 +62,10 @@ class SignupStoryActivity : AppCompatActivity(){
         }
 
         binding.ButtonSignup.setOnClickListener {
-            val email = binding.emailEditTextStory.text.toString()
+            val email = binding.emailEditTextSignup.text.toString()
             val name = binding.nameEditTextSignup.text.toString()
             val pass = binding.passwordEditTextLogin.text.toString()
-
+            Log.d("SignupStoryActivity", "$email, $pass" )
             val title = getString(R.string.head_notif)
             val message = getString(R.string.register_succes_notif)
             val next = getString(R.string.next_notif)
